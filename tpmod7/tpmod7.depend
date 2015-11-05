@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1446358762 source:d:\bahan ajar\asd\modul7\tp mod 7\tpmod7\header7.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	"header7.h"
+
+1446393976 source:d:\bahan ajar\asd\modul7\tp mod 7\tpmod7\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	"header7.h"
+
+1446310053 d:\bahan ajar\asd\modul7\tp mod 7\tpmod7\header7.h
+
